@@ -1,0 +1,9 @@
+.parent{
+    height: 200px;
+    border: 1px solid black;
+}
+.child{
+    height: 50px;
+    width: 30%;
+    border: 1px solid black;
+}
